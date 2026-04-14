@@ -88,7 +88,8 @@ Where:
 
 I used Claude AI as a learning assistant throughout this project.
 Claude helped me understand Dynamic Programming from scratch,
-explained each step in plain English, and guided me through
+explained each step , and guided me through writing and debugging the code line by line.
+I understand every part of the code and can explain it fully.
 writing and debugging the code line by line.
 I understand every part of the code and can explain it fully.
 
